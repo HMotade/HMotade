@@ -30,4 +30,4 @@ Git | GitHub | VS Code
 > with 90% accuracy — inspired by SD-WAN app visibility
 
 ## Let's Connect
-www.linkedin.com/in/hanmant-motade-5594531b1
+www.linkedin.com/in/hmotade
